@@ -1,0 +1,120 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Aug 2023 17:03:44 at http://www.el.commonsupport.com/rc/erdunt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.el.commonsupport.com/rc/erdunt/ -O1 "D:\home-industry" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:12:32	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/?p=123456abc (from www.el.commonsupport.com/rc/erdunt/)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/owl.video.play.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/owl.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/mCSB_buttons.html (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/scrollbar.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/img/bx-slider/controls.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/jquery.bxslider.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/images/ui-icons_777620_256x240.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/jquery-ui.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/images/ui-icons_cc0000_256x240.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/jquery-ui.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/language-switcher/gb.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/polyglot-language-switcher.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/language-switcher/fr.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/polyglot-language-switcher.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/language-switcher/de.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/polyglot-language-switcher.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/language-switcher/it.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/polyglot-language-switcher.css?ver=6.2.2)
+17:28:13	Error: 	"Not Found" (404) at link www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/language-switcher/es.png (from www.el.commonsupport.com/rc/erdunt/wp-content/themes/erdunt/assets/css/polyglot-language-switcher.css?ver=6.2.2)
+17:28:13	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=12
+17:28:13	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=12 to http://www.el.commonsupport.com/rc/erdunt/home-industry/
+17:28:13	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=14
+17:28:13	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=14 to http://www.el.commonsupport.com/rc/erdunt/home-construction/
+17:28:19	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=16
+17:28:19	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=16 to http://www.el.commonsupport.com/rc/erdunt/home-renewable-energy/
+17:28:19	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=18
+17:28:19	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=18 to http://www.el.commonsupport.com/rc/erdunt/home-oil-gas/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=20
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=20 to http://www.el.commonsupport.com/rc/erdunt/home-onepage/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=751
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=751 to http://www.el.commonsupport.com/rc/erdunt/about-factory/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=752
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=752 to http://www.el.commonsupport.com/rc/erdunt/about-us/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=756
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=756 to http://www.el.commonsupport.com/rc/erdunt/services-style-one/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=757
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=757 to http://www.el.commonsupport.com/rc/erdunt/services-style-two/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=904
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=904 to http://www.el.commonsupport.com/rc/erdunt/services-style-three/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1034
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1034 to http://www.el.commonsupport.com/rc/erdunt/oil-gas-engineering/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1069
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1069 to http://www.el.commonsupport.com/rc/erdunt/power-energy/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1088
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1088 to http://www.el.commonsupport.com/rc/erdunt/industrial-exploration/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1093
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1093 to http://www.el.commonsupport.com/rc/erdunt/automation-industry/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1102
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1102 to http://www.el.commonsupport.com/rc/erdunt/manufacturing-plants/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1116
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1116 to http://www.el.commonsupport.com/rc/erdunt/chemical-research/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/chemical-research/http://www.el.commonsupport.com/rc/erdunt/chemical-research/
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/chemical-research/http://www.el.commonsupport.com/rc/erdunt/chemical-research/ to http://www.el.commonsupport.com/rc/erdunt/chemical-research/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=919
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=919 to http://www.el.commonsupport.com/rc/erdunt/our-team/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=958
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=958 to http://www.el.commonsupport.com/rc/erdunt/testimonials/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=974
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=974 to http://www.el.commonsupport.com/rc/erdunt/faqs/
+17:28:20	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1128
+17:28:20	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1128 to http://www.el.commonsupport.com/rc/erdunt/news-grid-view-2/
+17:28:58	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1194
+17:28:58	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1194 to http://www.el.commonsupport.com/rc/erdunt/2021/08/erdunt-produces-reliable-efficient-safe-sustainable-products/
+17:28:59	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1032
+17:28:59	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1032 to http://www.el.commonsupport.com/rc/erdunt/contact/
+17:28:59	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=304
+17:28:59	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=304 to http://www.el.commonsupport.com/rc/erdunt/2021/04/reliant-manufacturing-by-continued-support-business-by-erdunt/
+17:28:59	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=300
+17:28:59	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=300 to http://www.el.commonsupport.com/rc/erdunt/2021/04/the-industrial-sectors-are-performing-well-maintaining-growth/
+17:28:59	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=149
+17:28:59	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=149 to http://www.el.commonsupport.com/rc/erdunt/2021/04/the-industrial-sector-to-maintain-growth/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=156
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=156 to http://www.el.commonsupport.com/rc/erdunt/2021/04/contribution-world-gdp-by-erdunt-is-20/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=159
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=159 to http://www.el.commonsupport.com/rc/erdunt/2021/04/reliant-manufacturing-by-continued-business/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=530
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=530 to http://www.el.commonsupport.com/rc/erdunt/2021/05/the-construction-sector-to-maintain-growth/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=536
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=536 to http://www.el.commonsupport.com/rc/erdunt/2021/05/petrobras-to-meet-with-presidential-candidates-sides/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=537
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=537 to http://www.el.commonsupport.com/rc/erdunt/2021/05/we-won-best-industry-award-of-the-year-2021/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1138
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1138 to http://www.el.commonsupport.com/rc/erdunt/2021/08/10-reason-why-should-choose-our-industry/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1147
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1147 to http://www.el.commonsupport.com/rc/erdunt/2021/08/we-are-best-for-any-industrial-solution/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1149
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1149 to http://www.el.commonsupport.com/rc/erdunt/2021/08/knowledge-becomes-power-by-visit-industry/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1158
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1158 to http://www.el.commonsupport.com/rc/erdunt/2021/08/dont-worry-about-inspriation/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1160
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1160 to http://www.el.commonsupport.com/rc/erdunt/2021/08/multitasking-materials-in-future-construction/
+17:29:00	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1162
+17:29:00	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1162 to http://www.el.commonsupport.com/rc/erdunt/2021/08/best-heat-treatment-of-steel/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/news-grid-view-2/page/1/
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/news-grid-view-2/page/1/ to http://www.el.commonsupport.com/rc/erdunt/news-grid-view-2/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1199
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1199 to http://www.el.commonsupport.com/rc/erdunt/2021/08/metallurgy-news-relevant-today/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1196
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1196 to http://www.el.commonsupport.com/rc/erdunt/2021/08/widely-considered-as-a-global-leader-using-smart-industry-tech/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1192
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1192 to http://www.el.commonsupport.com/rc/erdunt/2021/08/join-the-new-innovation-of-erdunt-with-technically-large-workforce/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1186
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1186 to http://www.el.commonsupport.com/rc/erdunt/2021/08/opportunities-full-of-wide-growth-and-sector-of-manufacturing/
+17:29:02	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/news-list-view/page/1/
+17:29:02	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/news-list-view/page/1/ to http://www.el.commonsupport.com/rc/erdunt/news-list-view/
+17:29:04	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/author/admin/page/1/
+17:29:04	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/author/admin/page/1/ to http://www.el.commonsupport.com/rc/erdunt/author/admin/
+17:29:04	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/?p=1164
+17:29:04	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/?p=1164 to http://www.el.commonsupport.com/rc/erdunt/2021/08/save-energy-today-live-green/
+17:29:04	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/category/latest-news/page/1/
+17:29:04	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/category/latest-news/page/1/ to http://www.el.commonsupport.com/rc/erdunt/category/latest-news/
+17:29:04	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/tag/construction/page/1/
+17:29:04	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/tag/construction/page/1/ to http://www.el.commonsupport.com/rc/erdunt/tag/construction/
+17:29:04	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/tag/industry/page/1/
+17:29:04	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/tag/industry/page/1/ to http://www.el.commonsupport.com/rc/erdunt/tag/industry/
+17:29:05	Warning: 	Moved Permanently for www.el.commonsupport.com/rc/erdunt/tag/products/page/1/
+17:29:05	Warning: 	File has moved from www.el.commonsupport.com/rc/erdunt/tag/products/page/1/ to http://www.el.commonsupport.com/rc/erdunt/tag/products/
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 21 seconds : 594 links scanned, 533 files written (45743919 bytes overall) [35402134 bytes received at 23275 bytes/sec], 14758664 bytes transferred using HTTP compression in 374 files, ratio 23%, 4.2 requests per connection
+(11 errors, 98 warnings, 0 messages)
